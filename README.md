@@ -11,7 +11,7 @@ Module 2: Data Preproceesing: The data is cleaned to remove any null values and 
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/817f9820-c22e-458d-94c8-91a0bce8fc74)
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/dc8737c1-e088-4a83-9c02-a6edd242c161)
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/1ad61f56-6b9e-4196-ba7d-1188b35d9c11)  
-Module 3: Feature Extraction: The data is scaled and encoded.
+Module 3: Feature Extraction: The data is scaled and encoded.  
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/f7ec69b7-6a45-499e-a0b2-98f67791094d)
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/0b88751e-a08d-47aa-b207-01d479586953)  
 Module 4: Model Building: The Machine Learning Algorithms are loaded into the model.  
