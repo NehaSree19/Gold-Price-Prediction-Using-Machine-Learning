@@ -19,7 +19,7 @@ Module 5: Prediction: The test data is given to this model and accuracy of the m
 Module 6: The Evaluation Metrics is checked inorder to check the working accuracy of the alogorithm given to the model.  
 ->Linear Regression:
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/36116ca4-1218-41fa-a3ba-62840391f811)
-![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/3bf9b582-cb9f-4f99-a9e9-3a1deb7a00e7)  
+![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/3bf9b582-cb9f-4f99-a9e9-3a1deb7a00e7)   
 ->Random Forest Regression:  
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/eb8f92f2-25fc-4d06-a490-c94cd5dc8d0e)
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/6fd8b174-de1f-4a4c-b987-ff61b03d6dac)
