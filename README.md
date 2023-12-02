@@ -7,7 +7,7 @@ The Architecture of the Project:
 It is split into 6 modules:  
 Module 1: Data Collection: The dataset is dowloaded from kaggle and uploaded.
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/ef28fa2c-d6f8-4a1b-936c-54e81fc75aea)  
-Module 2: Data Preproceesing: The data is cleaned to remove any null values and missing values and split into train data(80%) and test data(20%).
+Module 2: Data Preproceesing: The data is cleaned to remove any null values and missing values and split into train data(80%) and test data(20%).  
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/817f9820-c22e-458d-94c8-91a0bce8fc74)
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/dc8737c1-e088-4a83-9c02-a6edd242c161)
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/1ad61f56-6b9e-4196-ba7d-1188b35d9c11)  
@@ -17,7 +17,7 @@ Module 3: Feature Extraction: The data is scaled and encoded.
 Module 4: Model Building: The Machine Learning Algorithms are loaded into the model.  
 Module 5: Prediction: The test data is given to this model and accuracy of the model is tested.  
 Module 6: The Evaluation Metrics is checked inorder to check the working accuracy of the alogorithm given to the model.  
-->Linear Regression:
+->Linear Regression:  
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/36116ca4-1218-41fa-a3ba-62840391f811)
 ![image](https://github.com/NehaSree19/Gold-Price-Prediction-Using-Machine-Learning/assets/92450770/3bf9b582-cb9f-4f99-a9e9-3a1deb7a00e7)   
 ->Random Forest Regression:  
